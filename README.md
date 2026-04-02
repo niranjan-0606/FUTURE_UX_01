@@ -17,3 +17,6 @@ https://www.figma.com/design/0TR4nK9hHqNAKK79uEXnwq/Clinic-ui-ux
 
 Prototype Link:
 https://www.figma.com/proto/0TR4nK9hHqNAKK79uEXnwq/Clinic-ui-ux
+
+## Screenshots
+![Contact](Desktop/contact.png)
